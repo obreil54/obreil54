@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cheddar](https://github.com/Ches-ctrl/Cheddar)
 
-- 📫 How to reach me **obreil54@gmail.com**
+- 📫 How to reach me: **obreil54@gmail.com**
 
 - ⚡ Fun fact **I am a DJ and beatmaker**
 
