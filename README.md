@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Magnat Questionnaire]([https://github.com/Ches-ctrl/Cheddar](https://github.com/obreil54/Magnat-Questionnaire)
+- 🔭 I’m currently working on [Magnat Questionnaire](https://github.com/obreil54/Magnat-Questionnaire)
 
 - 📫 How to reach me: **obreil54@gmail.com**
 
