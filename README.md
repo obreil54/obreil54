@@ -19,7 +19,7 @@
 
 ### 🌟 Featured Projects
 
-- [**IT Audit Platform**](https://github.com/obreil54/IT-Audit)  
+- [**IT Audit**](https://github.com/obreil54/IT-Audit)  
   *A centralized platform built for tracking IT equipment across an organization, featuring dual authentication and custom reporting tools using Ruby on Rails.*
 
 - [**Website for White Crescent Foundation**](https://github.com/obreil54/WCFYE)  
