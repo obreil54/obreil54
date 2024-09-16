@@ -23,7 +23,7 @@
   *A centralized platform built for tracking IT equipment across an organization, featuring dual authentication and custom reporting tools using Ruby on Rails.*
 
 - [**Website for White Crescent Foundation**](https://github.com/obreil54/WCFYE)  
-  *A static website built for a grassroots charity providing essential services in Yemen. Integrated with donation buttons and a Formspree-powered contact form.*
+  *A static website built for a grassroots charity providing essential services in Yemen. Integrated with donation buttons and a Formspree-powered form.*
 
 ---
 
