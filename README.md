@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **obreil54@gmail.com**
 
-- ⚡ Fun fact **I am a DJ and beatmaker**
+- ⚡ Fun fact: **I am a DJ and beatmaker**
 
 ---
 
