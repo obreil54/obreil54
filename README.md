@@ -5,29 +5,32 @@
   <img src="https://komarev.com/ghpvc/?username=obreil54&label=Profile%20views&color=0e75b6&style=flat" alt="obreil54" />
 </p>
 
+<p align="center">
+  As a passionate Full Stack Developer, I specialize in creating dynamic, responsive web applications. With experience in Ruby on Rails, JavaScript, PostgreSQL, and more, I aim to deliver clean, efficient solutions for both frontend and backend challenges. I enjoy building projects from scratch and collaborating with teams to bring ideas to life.
+</p>
+
 - 🔭 I’m currently working on [Magnat Questionnaire](https://github.com/obreil54/Magnat-Questionnaire)
 
 - 📫 How to reach me: **obreil54@gmail.com**
 
 - ⚡ Fun fact **I am a DJ and beatmaker**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ilya-obretetskiy-b5010b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilya-obretetskiy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23088683/obreil54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="obreil54" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🌟 Featured Projects
+
+- [**IT Audit Platform**](https://github.com/obreil54/IT-Audit)  
+  *A centralized platform built for tracking IT equipment across an organization, featuring dual authentication and custom reporting tools using Ruby on Rails.*
+
+- [**Website for White Crescent Foundation**](https://github.com/obreil54/WCFYE)  
+  *A static website built for a grassroots charity providing essential services in Yemen. Integrated with donation buttons and a Formspree-powered contact form.*
+
+---
+
+### 🛠️ Languages and Tools:
+
+#### Frontend
 <p align="left">
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -43,6 +46,23 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+</p>
+
+#### Backend
+<p align="left">
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+  </a>
+  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
+
+#### Databases
+<p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
@@ -52,11 +72,15 @@
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
+</p>
+
+#### Tools & Platforms
+<p align="left">
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -66,3 +90,19 @@
   </a>
 </p>
 
+---
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=obreil54&show_icons=true&locale=en" alt="obreil54" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=obreil54&show_icons=true&locale=en&layout=compact" alt="obreil54" />
+</p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ilya-obretetskiy-b5010b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilya-obretetskiy" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/23088683/obreil54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="obreil54" height="30" width="40" /></a>
+</p>
