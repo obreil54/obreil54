@@ -9,7 +9,7 @@
   As a passionate Full Stack Developer, I specialize in creating dynamic, responsive web applications. With experience in Ruby on Rails, JavaScript, PostgreSQL, and more, I aim to deliver clean, efficient solutions for both frontend and backend challenges. I enjoy building projects from scratch and collaborating with teams to bring ideas to life.
 </p>
 
-- 🔭 I’m currently working on **[IT Audit](https://github.com/obreil54/Magnat-Questionnaire)**
+- 🔭 I’m currently working on **[She & Hers](https://github.com/obreil54/she_and_hers)**
 
 - 📫 How to reach me: **obreil54@gmail.com**
 
