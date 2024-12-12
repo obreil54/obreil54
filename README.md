@@ -19,7 +19,7 @@
 
 ### 🌟 Featured Projects
 
-- [**She & Hers**](https://github.com/obreil54/she_and_hers)  
+- [**Shers Studios**](https://github.com/obreil54/she_and_hers)  
   *A custom-built e-commerce platform for a sustainable slow fashion brand, featuring shopping functionality, custom garment orders, and integrations with Stripe, Shippo, and Google Merchant. Built with Ruby on Rails.*
 
 - [**IT Audit**](https://github.com/obreil54/Magnat-Questionnaire)  
