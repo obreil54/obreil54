@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=obreil54&label=Profile%20views&color=0e75b6&style=flat" alt="obreil54" />
+  <img src="https://visitcount.itsvg.in/api?id=obreil54&label=Profile%20Views&color=6acdfc&icon=5&pretty=true" alt="Profile views counter" />
 </p>
 
 <p align="center">
