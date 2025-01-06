@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=obreil54&color=blue" alt="Profile views badge" />
-</p>
 
 <p align="center">
   As a passionate Full Stack Developer, I specialize in creating dynamic, responsive web applications. With experience in Ruby on Rails, JavaScript, PostgreSQL, and more, I aim to deliver clean, efficient solutions for both frontend and backend challenges. I enjoy building projects from scratch and collaborating with teams to bring ideas to life.
