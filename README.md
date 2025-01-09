@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[She & Hers](https://github.com/obreil54/she_and_hers)**
 
-- 🌱 I'm currently learning **Python and Machine Learning**
+- 🌱 I'm currently learning **Python, A.I. and Machine Learning**
 
 - 📫 How to reach me: **obreil54@gmail.com**
 
