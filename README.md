@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **[She & Hers](https://github.com/obreil54/she_and_hers)**
 
+- 🌱 I'm currently learning **Machine Learning**
+
 - 📫 How to reach me: **obreil54@gmail.com**
 
 - ⚡ Fun fact: **I am a DJ and beatmaker**
