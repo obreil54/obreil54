@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[DJ Set Generator](https://github.com/obreil54/dj_set_generator)**
 
-- 🌱 I'm currently learning **Python, A.I. and Machine Learning**
+- 🌱 I'm currently learning **Testing in Rails**
 
 - 📫 How to reach me: **obreil54@gmail.com**
 
