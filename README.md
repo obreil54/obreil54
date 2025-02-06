@@ -43,6 +43,8 @@ I'm a Full-Stack Developer, specializing in Ruby on Rails, Stimulus (Hotwire), J
   </a>
 </p>
 
+---
+
 ### 📊 GitHub Stats:
 
 <p align="left">
