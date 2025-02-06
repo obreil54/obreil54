@@ -19,10 +19,7 @@ I'm a Full-Stack Developer, specializing in Ruby on Rails, Stimulus (Hotwire), J
   *Built with Ruby on Rails, Stimulus.js and PostgreSQL with Stripe and Shippo integration, this e-commerce platform was built for an independent fashion brand. It features seamless payment processing, automated shipping label manangement and a dynamic pricing system for custom-made orders.*
 
 - [**IT Audit**](https://github.com/obreil54/Magnat-Questionnaire)  
-  *A centralized platform built for tracking IT equipment across an organization, featuring dual authentication and custom reporting tools using Ruby on Rails.*
-
-- [**Website for White Crescent Foundation**](https://github.com/obreil54/WCFYE)  
-  *A static website built for a grassroots charity providing essential services in Yemen. Integrated with donation buttons and a Formspree-powered form.*
+  *Built with Ruby on Rails, Stimulus.js, and PostgreSQL, with Rails Admin for management, this centralized platform tracks IT equipment condition across an organization. It features dual authentication and custom reporting tools for streamlined asset management.*
 
 ---
 
