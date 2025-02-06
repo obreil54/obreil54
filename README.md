@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-I'm a Full-Stack Developer, specializing in Ruby on Rails, Stimulus (Hotwire), JavaScript, Sass, and PostgreSQL. Currently, My current interests include Test-Driven Development, specifically using Minitest in Rails, to improve the reliability and robustness of my applications.
+I'm a Full-Stack Developer, specializing in Ruby on Rails, Stimulus (Hotwire), JavaScript, Sass, and PostgreSQL. My current interests include Test-Driven Development, specifically using Minitest in Rails, to improve the reliability and robustness of my applications.
 </p>
 
 - 🔭 I’m currently working on **[DJ Set Generator](https://github.com/obreil54/dj_set_generator)**
