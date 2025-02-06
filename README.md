@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  As a passionate Full Stack Developer, I specialize in creating dynamic, responsive web applications. With experience in Ruby on Rails, JavaScript, PostgreSQL, and more, I aim to deliver clean, efficient solutions for both frontend and backend challenges. I enjoy building projects from scratch and collaborating with teams to bring ideas to life.
+I'm a Full-Stack Developer, specializing in Ruby on Rails, Stimulus (Hotwire), JavaScript, Sass, and PostgreSQL. Currently, My current interests include Test-Driven Development, specifically using Minitest in Rails, to improve the reliability and robustness of my applications.
 </p>
 
 - 🔭 I’m currently working on **[DJ Set Generator](https://github.com/obreil54/dj_set_generator)**
@@ -10,8 +10,6 @@
 - 🌱 I'm currently learning **Testing in Rails**
 
 - 📫 How to reach me: **obreil54@gmail.com**
-
-- ⚡ Fun fact: **I am a DJ and beatmaker**
 
 ---
 
