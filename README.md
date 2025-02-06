@@ -16,7 +16,7 @@ I'm a Full-Stack Developer, specializing in Ruby on Rails, Stimulus (Hotwire), J
 ### 🌟 Featured Projects
 
 - [**Shers Studios**](https://github.com/obreil54/she_and_hers)  
-  *A custom-built e-commerce platform for an independent slow fashion brand, featuring shopping functionality, custom garment orders, and integrations with Stripe, Shippo, and Google Merchant. Built with Ruby on Rails.*
+  *Built with Ruby on Rails, Stimulus.js and PostgreSQL with Stripe and Shippo integration, this e-commerce platform was built for an independent fashion brand. It features seamless payment processing, automated shipping label manangement and a dynamic pricing system for custom-made orders.*
 
 - [**IT Audit**](https://github.com/obreil54/Magnat-Questionnaire)  
   *A centralized platform built for tracking IT equipment across an organization, featuring dual authentication and custom reporting tools using Ruby on Rails.*
