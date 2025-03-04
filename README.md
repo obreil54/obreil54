@@ -7,7 +7,7 @@ I'm a Full-Stack Developer, specializing in Ruby on Rails, Stimulus (Hotwire), J
 
 - 🔭 I’m currently working on **[DJ Set Generator](https://github.com/obreil54/dj_set_generator)**
 
-- 🌱 I'm currently learning **Minitest testing in Rails**
+- 🌱 I'm currently learning **Minitest testing in Rails and Turbo**
 
 - 📫 How to reach me: **obreil54@gmail.com**
 
