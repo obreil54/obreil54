@@ -34,8 +34,8 @@ I'm a Full-Stack Developer, specializing in Ruby on Rails, Stimulus (Hotwire), J
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
   </a>
-  <a href="https://stimulus.hotwired.dev/" target="_blank" rel="noreferrer"> 
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyIFo0HdVPpHBxR6UgqM3gNt4vBL6o65T9mg&s" alt="Stimulus.js" width="40" height="40"/> 
+  <a href="https://stimulus.hotwired.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hotwire.svg" alt="Hotwire / Stimulus" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
